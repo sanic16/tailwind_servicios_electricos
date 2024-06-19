@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="380.99997mm"
+   height="118.79793mm"
+   viewBox="0 0 380.99997 118.79793"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs2"><path
+       id="a"
+       d="M 0,0 H 1454 V 449 H 0 Z" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(503.41108,-42.139968)"><g
+       transform="matrix(0.26458333,0,0,0.26458333,-507.11524,42.139967)"
+       fill="none"
+       fill-rule="evenodd"
+       id="g493"
+       style="fill:#ffce15;fill-opacity:1"
+       inkscape:export-filename="curvy-bg.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><mask
+         id="b"
+         fill="#ffffff"><use
+           xlink:href="#a"
+           id="use488" /></mask><path
+         d="M 14,413.954 C 104.836,408.595 190.206,363.579 270.111,278.908 389.968,151.9 364.01,105.164 563.005,148.686 762,192.207 745.05,163.699 873,63.13 c 127.95,-100.57 211,-77.554 289,44.667 78,122.222 151,162.895 284,207.778 88.667,29.921 92.03,848.285 10.091,2455.09 H 14 V 413.956 Z"
+         fill="#181f2b"
+         mask="url(#b)"
+         id="path491"
+         style="fill:#ffce15;fill-opacity:1" /></g></g></svg>
