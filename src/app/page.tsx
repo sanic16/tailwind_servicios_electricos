@@ -13,6 +13,11 @@ export const metadata: Metadata = {
     "Servicios de electricidad en general, instalaciones, reparaciones, mantenimiento, etc.",
   keywords:
     "electricidad, electricista, instalaciones, reparaciones, mantenimiento, electrios, electroser",
+  openGraph: {
+    title: "Electroser - Servicios de electricidad en general",
+    description:
+      "Servicios de electricidad en general, instalaciones, reparaciones, mantenimiento, etc.",
+  },
 };
 
 export default function Home() {
