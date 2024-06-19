@@ -19,10 +19,10 @@ export const metadata: Metadata = {
       "Servicios de electricidad en general, instalaciones, reparaciones, mantenimiento, etc.",
     images: [
       {
-        hostname: "nextjs-blog-gt.s3.amazonaws.com",
-        url: "https://nextjs-blog-gt.s3.amazonaws.com/public/1e026cf5-17e0-45ef-9da2-13f2291ce10b-blog7.jpg",
-        width: 1120,
-        height: 770,
+        hostname: "julius-assets-gt.s3.amazonaws.com/electroser",
+        url: "https://julius-assets-gt.s3.amazonaws.com/electroser",
+        width: 1920,
+        height: 1280,
       },
     ],
   },
@@ -30,10 +30,10 @@ export const metadata: Metadata = {
     title: "Electroser - Servicios de electricidad en general",
     images: [
       {
-        hostname: "nextjs-blog-gt.s3.amazonaws.com",
-        url: "https://nextjs-blog-gt.s3.amazonaws.com/public/1e026cf5-17e0-45ef-9da2-13f2291ce10b-blog7.jpg",
-        width: 1120,
-        height: 770,
+        hostname: "julius-assets-gt.s3.amazonaws.com/electroser",
+        url: "https://julius-assets-gt.s3.amazonaws.com/electroser",
+        width: 1920,
+        height: 1280,
       },
     ],
   },
